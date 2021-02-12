@@ -7,8 +7,8 @@
     "keywords": ["flash", "messages", "laravel", "session", "object"],
     "minimum-stability": "dev",
     "support": {
-        "source": "https://github.com/anselmi-dev/flashedGoto",
-        "issues": "https://github.com/anselmi-dev/flashedGoto/issues"
+        "source": "https://github.com/gocanto/flashed",
+        "issues": "https://github.com/gocanto/flashed/issues"
     },
     "require": {
         "php": "~7.0|~7.1",
