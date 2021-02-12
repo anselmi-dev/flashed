@@ -1,6 +1,6 @@
 {
     "license": "MIT",
-    "name": "gocanto/flashed",
+    "name": "gocanto/flashed-dev",
     "homepage": "https://github.com/gocanto/flashed",
     "type": "laravel-bundle",
     "description": "A tiny component to flash messages into Laravel session object.",
