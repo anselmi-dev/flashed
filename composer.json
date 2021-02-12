@@ -1,17 +1,15 @@
 {
     "license": "MIT",
     "name": "gocanto/flashed-dev",
-    "homepage": "https://github.com/gocanto/flashed",
+    "homepage": "https://github.com/anselmi-dev/flashedGoto",
     "type": "laravel-bundle",
     "description": "A tiny component to flash messages into Laravel session object.",
     "keywords": ["flash", "messages", "laravel", "session", "object"],
     "minimum-stability": "dev",
-
     "support": {
         "source": "https://github.com/gocanto/flashed",
         "issues": "https://github.com/gocanto/flashed/issues"
     },
-
     "require": {
         "php": "~7.0|~7.1",
         "illuminate/support": "^5.3",
@@ -42,6 +40,5 @@
     "scripts": {
         "test": "./vendor/bin/phpunit"
     },
-    "minimum-stability": "^1.0",
     "prefer-stable": true
 }
