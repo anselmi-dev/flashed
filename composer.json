@@ -5,6 +5,7 @@
     "type": "laravel-bundle",
     "description": "A tiny component to flash messages into Laravel session object.",
     "keywords": ["flash", "messages", "laravel", "session", "object"],
+    "minimum-stability": "dev",
     "support": {
         "source": "https://github.com/gocanto/flashed",
         "issues": "https://github.com/gocanto/flashed/issues"
@@ -38,4 +39,5 @@
 
     "scripts": {
         "test": "./vendor/bin/phpunit"
+    }
 }
